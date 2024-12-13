@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
+
 # 💫 About Me:
 Hello!!👋 <br>I'm Deeksha <br>👩🏻‍💻A student with a strong interest in cybersecurity and artificial intelligence, focused on advancing my skills in these evolving fields.<br>🤝🏻I’m looking to collaborate on creating web applications and building AI tools.<br>💬 Ask me about  front-end development, and designing.
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
