@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello!!👋 <br>I'm Deeksha <br>👩🏻‍💻A student with a strong interest in cybersecurity and artificial intelligence, focused on advancing my skills in these evolving fields.<br>🤝🏻I’m looking to collaborate on creating web applications and building AI tools.<br>💬 Ask me about front-end development and designing.
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
@@ -14,7 +14,6 @@ Hello!!👋 <br>I'm Deeksha <br>👩🏻‍💻A student with a strong interest 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 GitHub Stats:
